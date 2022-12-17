@@ -5,4 +5,4 @@ Fishermen Investigating Seasonal Hypoxia (FISH) is a cooperative fisheries resea
 In short, data. This repo is home to data collected across the entire FISH project. This includes partnership with fishing industry as well as state agencies. In the ```Collections``` directory you will find sub-directories for each distinct project with more information on each data stream.
 
 ### Contact
-For more information contact [Linus Stoltz](stoltzl@oregonstate.edu)
+For more information contact [Linus Stoltz](mailto:stoltzl@oregonstate.edu)
